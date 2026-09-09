@@ -14,14 +14,14 @@ const SITE_CONFIG = {
     aboutDescription2:
         "Our products mainly focus on puzzle games, sorting games, level editor systems, mobile monetization and cross-platform Unity projects.",
 
-    email: "your-email@example.com",
+    email: "greendragonstudio24@gmail.com",
 
     logo: "images/logo.png",
 
     banner: "images/banner.jpg",
 
     links: {
-        codester: "https://www.codester.com/foxgames",
+        codester: "https://www.codester.com",
         unityAssetStore: "#",
         fab: "#"
     }
