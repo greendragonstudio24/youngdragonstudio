@@ -22,7 +22,7 @@ const SITE_CONFIG = {
 
     links: {
         codester: "https://www.codester.com",
-        unityAssetStore: "#",
-        fab: "#"
+        unityAssetStore: "https://assetstore.unity.com",
+        fab: "https://www.fab.com"
     }
 };
