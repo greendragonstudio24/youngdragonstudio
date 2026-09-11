@@ -18,7 +18,7 @@ const SITE_CONFIG = {
 
     logo: "images/logo.png",
 
-    banner: "images/banner.jpg",
+    banner: "images/banner.png",
 
     links: {
         codester: "https://www.codester.com",
