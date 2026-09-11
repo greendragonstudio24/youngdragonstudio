@@ -12,9 +12,9 @@ const PRODUCTS = [
         url: "#"
     },
     {
-        name: "Kitty Hole Jam",
-        image: "images/kitty-hole-jam.jpg",
-        description: "Casual puzzle game template with 1000+ levels and mobile support.",
+        name: "Idle Cannon Shooter",
+        image: "images/idle-cannon-shooter.jpg",
+        description: "Idle game template with upgrade system and mobile support.",
         url: "#"
     },
     {
